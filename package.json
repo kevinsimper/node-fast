@@ -1,0 +1,26 @@
+{
+  "name": "node-try",
+  "version": "1.0.0",
+  "description": "CLI tool to try out new demos in a hurry",
+  "main": "index.js",
+  "bin": {
+    "node-try": "./bin/index.js"
+  },
+  "dependencies": {
+    "sget": "^0.1.5"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "author": "Kevin Simper (kevin.simper@gmail.com)",
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/kevinsimper/node-try.git"
+  },
+  "bugs": {
+    "url": "https://github.com/kevinsimper/node-try/issues"
+  },
+  "homepage": "https://github.com/kevinsimper/node-try#readme"
+}
