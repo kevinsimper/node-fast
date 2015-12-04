@@ -32,3 +32,7 @@ craftyjs is loaded
 
 ### Is it secure?
 Yes, it will ask for every module it will install, so it will be the exact same result as if you did it yourself. It will not install anything automaticly.
+
+## Credits
+
+- [@andreas_madsen](https://twitter.com/andreas_madsen) Help a lot on how to overwrite require()
