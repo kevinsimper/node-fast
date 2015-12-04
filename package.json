@@ -1,10 +1,10 @@
 {
-  "name": "node-try",
+  "name": "node-fast",
   "version": "1.0.0",
-  "description": "CLI tool to try out new demos in a hurry",
+  "description": "CLI tool to fast out new demos in a hurry",
   "main": "index.js",
   "bin": {
-    "node-try": "./bin/index.js"
+    "node-fast": "./bin/index.js"
   },
   "dependencies": {
     "sget": "^0.1.5"
@@ -17,10 +17,10 @@
   "license": "MIT",
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/kevinsimper/node-try.git"
+    "url": "git+https://github.com/kevinsimper/node-fast.git"
   },
   "bugs": {
-    "url": "https://github.com/kevinsimper/node-try/issues"
+    "url": "https://github.com/kevinsimper/node-fast/issues"
   },
-  "homepage": "https://github.com/kevinsimper/node-try#readme"
+  "homepage": "https://github.com/kevinsimper/node-fast#readme"
 }
